@@ -1,7 +1,7 @@
 # try_hack_me_ctf
 This CherryTree file has walkthrough for TryHackMe Rooms
 
-Linux Strenght Training
+Linux Strenght Training \n
 Basic Pentesting
 Mr.Robot CTF
 Advent of Cyber
